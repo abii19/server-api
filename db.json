@@ -3,17 +3,50 @@
     {
       "id": "1",
       "list_name": "list name 067ss",
-      "created_at": "December 12, 2020"
+      "created_at": "December 12, 2020",
+      "stores": [
+        {
+          id: "1"
+        },
+        {
+          id: "2"
+        },
+        {
+          id: "3"
+        }
+       ]
     },
     {
       "id": "3",
       "list_name": "list name 1aj",
-      "created_at": "December 12, 2020"
+      "created_at": "December 12, 2020",
+      "stores": [
+        {
+          id: "1"
+        },
+        {
+          id: "2"
+        }
+       ]
     },
     {
       "id": "4",
       "list_name": "list name 134567",
-      "created_at": "December 12, 2020"
+      "created_at": "December 12, 2020",
+      "stores": [
+        {
+          id: "1"
+        },
+        {
+          id: "2"
+        },
+        {
+          id: "3"
+        },
+        {
+          id: "4"
+        }
+       ]
     }
   ],
   "posts": [
