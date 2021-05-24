@@ -6,13 +6,13 @@
       "created_at": "December 12, 2020",
       "stores": [
         {
-          id: "1"
+          "id": "1"
         },
         {
-          id: "2"
+          "id": "2"
         },
         {
-          id: "3"
+          "id": "3"
         }
        ]
     },
@@ -22,10 +22,10 @@
       "created_at": "December 12, 2020",
       "stores": [
         {
-          id: "1"
+          "id": "1"
         },
         {
-          id: "2"
+          "id": "2"
         }
        ]
     },
@@ -35,16 +35,16 @@
       "created_at": "December 12, 2020",
       "stores": [
         {
-          id: "1"
+          "id": "1"
         },
         {
-          id: "2"
+          "id": "2"
         },
         {
-          id: "3"
+          "id": "3"
         },
         {
-          id: "4"
+          "id": "4"
         }
        ]
     }
