@@ -1,4 +1,21 @@
 {
+  "lists": [
+    {
+      "id": "1",
+      "list_name": "list name 067ss",
+      "created_at": "December 12, 2020"
+    },
+    {
+      "id": "3",
+      "list_name": "list name 1aj",
+      "created_at": "December 12, 2020"
+    },
+    {
+      "id": "4",
+      "list_name": "list name 134567",
+      "created_at": "December 12, 2020"
+    }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
