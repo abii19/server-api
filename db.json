@@ -2,8 +2,8 @@
   "lists": [
     {
       "id": "1",
-      "list_name": "list name 067ss",
-      "created_at": "December 12, 2020",
+      "list_name": "list name 1",
+      "created_at": "December 9, 2020",
       "stores": [
         {
           "id": "1"
@@ -17,9 +17,9 @@
        ]
     },
     {
-      "id": "3",
-      "list_name": "list name 1aj",
-      "created_at": "December 12, 2020",
+      "id": "2",
+      "list_name": "list name 2",
+      "created_at": "December 10, 2020",
       "stores": [
         {
           "id": "1"
@@ -30,8 +30,27 @@
        ]
     },
     {
+      "id": "3",
+      "list_name": "list name 3",
+      "created_at": "December 12, 2020",
+      "stores": [
+        {
+          "id": "1"
+        },
+        {
+          "id": "2"
+        },
+        {
+          "id": "3"
+        },
+        {
+          "id": "4"
+        }
+       ]
+    },
+    {
       "id": "4",
-      "list_name": "list name 134567",
+      "list_name": "list name 4",
       "created_at": "December 12, 2020",
       "stores": [
         {
