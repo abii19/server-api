@@ -1,74 +1,1225 @@
 {
   "lists": [
     {
-      "id": "1",
-      "list_name": "list name 1",
-      "created_at": "December 9, 2020",
-      "stores": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        },
-        {
-          "id": "3"
-        }
-       ]
+      "id": "a52CUvk",
+      "list_name": "ssssadcdca",
+      "created_at": "December",
+      "no_of_stores": "228"
     },
     {
-      "id": "2",
-      "list_name": "list name 2",
-      "created_at": "December 10, 2020",
-      "stores": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        }
-       ]
+      "id": "ysZzk_N",
+      "list_name": "new list name sjs",
+      "created_at": "December",
+      "no_of_stores": "969"
     },
     {
-      "id": "3",
-      "list_name": "list name 3",
-      "created_at": "December 12, 2020",
-      "stores": [
-        {
-          "id": "1"
-        },
-        {
-          "id": "2"
-        },
-        {
-          "id": "3"
-        },
-        {
-          "id": "4"
-        }
-      ]
+      "id": "-2Chi0J",
+      "list_name": "jhjkjhgfdfgh",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "6nxlTwR",
+      "list_name": "test list",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "_dBts-C",
+      "list_name": "ssascadscas",
+      "created_at": "December",
+      "no_of_stores": "228"
     },
     {
       "id": "4",
-      "list_name": "list name 4",
+      "list_name": "list name 134567ssasad",
       "created_at": "December 12, 2020",
-      "stores": [
-        {
-          "id": "1"
-        }
-      ]
+      "no_of_stores": "901"
+    },
+    {
+      "id": "a52CUvk",
+      "list_name": "ssssadcdca",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "ysZzk_N",
+      "list_name": "new list name sjs",
+      "created_at": "December",
+      "no_of_stores": "969"
+    },
+    {
+      "id": "-2Chi0J",
+      "list_name": "jhjkjhgfdfgh",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "6nxlTwR",
+      "list_name": "test list",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "_dBts-C",
+      "list_name": "ssascadscas",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "-TuV2uT",
+      "list_name": "list 1",
+      "created_at": "December",
+      "no_of_stores": "0"
+    },
+    {
+      "id": "4",
+      "list_name": "list name 134567ssasad",
+      "created_at": "December 12, 2020",
+      "no_of_stores": "901"
+    },
+    {
+      "id": "a52CUvk",
+      "list_name": "ssssadcdca",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "ysZzk_N",
+      "list_name": "new list name sjs",
+      "created_at": "December",
+      "no_of_stores": "969"
+    },
+    {
+      "id": "-2Chi0J",
+      "list_name": "jhjkjhgfdfgh",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "6nxlTwR",
+      "list_name": "test list",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "_dBts-C",
+      "list_name": "ssascadscas",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "-TuV2uT",
+      "list_name": "list 1",
+      "created_at": "December",
+      "no_of_stores": "0"
+    },
+    {
+      "id": "4",
+      "list_name": "list name 134567ssasad",
+      "created_at": "December 12, 2020",
+      "no_of_stores": "901"
+    },
+    {
+      "id": "a52CUvk",
+      "list_name": "ssssadcdca",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "ysZzk_N",
+      "list_name": "new list name sjs",
+      "created_at": "December",
+      "no_of_stores": "969"
+    },
+    {
+      "id": "-2Chi0J",
+      "list_name": "jhjkjhgfdfgh",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "6nxlTwR",
+      "list_name": "test list",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "_dBts-C",
+      "list_name": "ssascadscas",
+      "created_at": "December",
+      "no_of_stores": "228"
+    },
+    {
+      "id": "-TuV2uT",
+      "list_name": "list 1",
+      "created_at": "December",
+      "no_of_stores": "0"
     }
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "stores": [
+    {
+      "_id": {
+        "$oid": "60a94c8017004859308e06c4"
+      },
+      "company_size_min": 6,
+      "company_size_max": 136,
+      "timestamp": "2021-05-16 17:34:09.824006",
+      "base_url": "https://www.sheswaisted.com",
+      "name": "She's Waisted",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0035/9759/8787/files/Pink_133a2634-1389-4cf4-9cc8-67096e5c6cb5_360x.png",
+      "title": "She's Waisted",
+      "description": "Transform Your Curves with our Premium Waist Trainers and Fitness belts.",
+      "language": "en",
+      "emails": [
+        "support@sheswaisted.com"
+      ],
+      "locations": [
+        "33157 Cutler Bay"
+      ],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/sheswaisted",
+        "instagram": "http://instagram.com/sheswaisted"
+      },
+      "technologies": [
+        "Shopify",
+        "Apple Pay",
+        "Google Optimize",
+        "Loox",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Clothing (Brand)"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 18:05:08.043045",
+          "likes": 24571,
+          "store_name": "She’s Waisted",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "",
+          "categories": [
+            "Clothing (Brand)"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://www.sheswaisted.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c801b1971acf68e06c4"
+      },
+      "company_size_min": 11,
+      "company_size_max": 265,
+      "timestamp": "2021-05-16 17:34:10.988040",
+      "base_url": "https://www.heavenpatch.com",
+      "name": "Heaven Patch",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0374/2092/4987/files/Heaven_Patch_Logo2_300x300.png",
+      "title": "Heaven Patch",
+      "description": "Heaven Patch",
+      "language": "en",
+      "emails": [
+        "support@heavenpatch.com"
+      ],
+      "locations": [
+        "30024 Suwanee"
+      ],
+      "phone_numbers": [],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "Bootstrap",
+        "American Express",
+        "Apple Pay",
+        "Venmo",
+        "Visa",
+        "Font Awesome",
+        "jQuery"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c803570824a368e06c4"
+      },
+      "company_size_min": 14,
+      "company_size_max": 409,
+      "timestamp": "2021-05-16 17:34:16.406119",
+      "base_url": "https://catsrug.com",
+      "name": "CATSRUG",
+      "platform": "shopify",
+      "logo": "",
+      "title": "CATSRUG",
+      "description": "CATSRUG",
+      "language": "en",
+      "emails": [
+        "support@catusrun.com",
+        "support@catsrug.com"
+      ],
+      "locations": [
+        "90018 Los Angeles"
+      ],
+      "phone_numbers": [
+        "+(866) 667-5167",
+        "(866) 667-5167",
+        "+(866)%20667-5167",
+        "+(866)667-5167"
+      ],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "Bootstrap",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "Font Awesome",
+        "jQuery"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c803cd49d92898e06c4"
+      },
+      "company_size_min": 11,
+      "company_size_max": 453,
+      "timestamp": "2021-05-16 17:34:08.366176",
+      "base_url": "https://evorul.co",
+      "name": "Evorul™",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0550/0449/6028/files/evorul_LOGO_5_x40.png",
+      "title": "Evorul™",
+      "description": "Evorul™",
+      "language": "en",
+      "emails": [
+        "support@evorul.co"
+      ],
+      "locations": [],
+      "phone_numbers": [
+        "+13163333118",
+        "+1 316-333-3118"
+      ],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Loox",
+        "Modernizr",
+        "jQuery"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c800e469c631c8e06c4"
+      },
+      "company_size_min": 18,
+      "company_size_max": 295,
+      "timestamp": "2021-05-16 17:34:15.669535",
+      "base_url": "https://bargainboxed.com",
+      "name": "BargainBoxed.com",
+      "platform": "shopify",
+      "logo": "<svg class=\"icon-svg whatsapp-svg\" fill=\"currentColor\" role=\"img\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413Z\"></path></svg>",
+      "title": "Bargain Boxed | Discounted Wholesale, Overstock, Liquidation Products!",
+      "description": "Get Top Brands For Up To 85% OFF Retail Prices. Bargain Boxed Is A leading Source For Reclamation, Closeout, Overstock, And Liquidation Products At Heavily Discounted Competitive Prices. Get A Bargain Every Time You Shop + We Have Tips, Tricks, Reviews & Other Great Ways To Save Online!",
+      "language": "en",
+      "emails": [
+        "info@bargainboxed.com"
+      ],
+      "locations": [
+        "44425 Hubbard"
+      ],
+      "phone_numbers": [],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "YouTube",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "jQuery"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c80c6eeabc2338e06c4"
+      },
+      "company_size_min": 15,
+      "company_size_max": 462,
+      "timestamp": "2021-05-16 17:34:17.753523",
+      "base_url": "https://bxmbbeauty.ca",
+      "name": "BXMB BEAUTY®",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/1678/5873/files/BXMB-BrandID-01_600x200.png",
+      "title": "BXMB BEAUTY - Best Hair Growth Oil, Supplements & Skin Products",
+      "description": "Beauty + Wellness Redefined - All natural, cruelty free skin and hair care. Previously known as Bombshell Beauty. Start your hair growth journey with our amazing line of the best hair growth oils, supplements and other hair products.",
+      "language": "en",
+      "emails": [
+        "bxmbbeauty@gmail.com",
+        "support@bomshellteam.com"
+      ],
+      "locations": [],
+      "phone_numbers": [
+        "(407)744 6093"
+      ],
+      "social_links": {
+        "facebook": "http://facebook.com/bxmbbeauty",
+        "instagram": "http://instagram.com/bxmbbeauty",
+        "youtube": "http://youtube.com/channel/UCyZNvsdleQ4iMbtO6YjOGPA"
+      },
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "Google Analytics",
+        "Slick",
+        "jsDelivr",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Health/Beauty",
+        "Beauty, Cosmetic & Personal Care",
+        "Beauty Supply Store"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 20:55:57.752595",
+          "likes": 15823,
+          "store_name": "Bombshell Beauty",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "Vancouver, British Columbia",
+          "categories": [
+            "Health/Beauty",
+            "Beauty, Cosmetic & Personal Care",
+            "Beauty Supply Store"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://www.bxmbbeauty.ca/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {
+          "timestamp": "2021-05-16 20:56:53.868656",
+          "views": 69,
+          "subscribers": 2,
+          "videos": 3,
+          "name": "Bxmb Beauty",
+          "description": "BEAUTY + WELLNESS defined naturally 🌿\nSkin & Hair care + supplements 💣\n\nwww.bxmbbeauty.ca\nBxmbbeauty@gmail.com",
+          "keywords": null
+        },
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c80396b1852988e06c4"
+      },
+      "company_size_min": 5,
+      "company_size_max": 317,
+      "timestamp": "2021-05-16 17:34:17.893856",
+      "base_url": "https://getyourswagom.com",
+      "name": "Get Your Swag Om",
+      "platform": "shopify",
+      "logo": "http://cdn.shopify.com/s/files/1/0364/1091/6997/files/GYSO_72deceb0-8bcb-4772-8844-3df28d205d76_1024x.jpg",
+      "title": "",
+      "description": "",
+      "language": "",
+      "emails": [],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "Apple Pay"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c8085102067768e06c4"
+      },
+      "company_size_min": 5,
+      "company_size_max": 163,
+      "timestamp": "2021-05-16 17:34:14.977486",
+      "base_url": "https://equinoxtheshop.com",
+      "name": "The Shop at Equinox",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0458/8840/5654/files/eqx_1cs_pos_blk-scr_300x300.jpg",
+      "title": "THE SHOP AT EQUINOX",
+      "description": "Featuring brands to suit your high performance life. We take you from workout to hangout with curated, exclusive product offerings of complete looks, inclusive of both performance and casual apparel categories. From must-have basics to designer indulgences, this is where fitness and fashion",
+      "language": "en",
+      "emails": [
+        "memadmin@equinox.com",
+        "concierge@equinox.com",
+        "privacy@equinox.com"
+      ],
+      "locations": [
+        "10001 New York"
+      ],
+      "phone_numbers": [
+        "(646) 357-9500",
+        "(866) 275-5678"
+      ],
+      "social_links": {
+        "facebook": "http://facebook.com/equinox",
+        "instagram": "http://instagram.com/equinox",
+        "youtube": "http://youtube.com/channel/UCGXZecwt15mkwMBD8myH4Cw",
+        "twitter": "http://twitter.com/equinox"
+      },
+      "technologies": [
+        "Shopify",
+        "Apple Pay",
+        "Google Tag Manager"
+      ],
+      "product_categories": [
+        "Health/Beauty",
+        "Gym/Physical Fitness Center"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 19:44:13.576698",
+          "likes": 310245,
+          "store_name": "Equinox",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "New York, NY",
+          "categories": [
+            "Health/Beauty",
+            "Gym/Physical Fitness Center"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "https://www.equinox.com/",
+            "https://twitter.com/Equinoxhttp://instagram.com/equinox/http://www.foursquare.com/equinoxJoin Equinox: https://www.equinox.com/join/step1Club locations: http://www.equinox.com/regionsCareers: http://careers.equinox.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {
+          "timestamp": "2021-05-16 19:45:15.497812",
+          "views": 1538733,
+          "subscribers": 3550,
+          "videos": 82,
+          "name": "Equinox",
+          "description": "Equinox is a temple of well-being, featuring world-class personal trainers, group fitness classes, and spas. \n\n#ItsNotFitnessItsLife",
+          "keywords": "Fitness Equinox"
+        },
+        "pinterest": {},
+        "twitter": {
+          "timestamp": "2021-05-16 19:44:16.759932",
+          "followers": 105640,
+          "description": "The latest Tweets from Equinox (@Equinox). It's Not Fitness. It's Life. New York, NY",
+          "tweets_count": 22078
+        },
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c810dad0bb0a48e06c4"
+      },
+      "company_size_min": 9,
+      "company_size_max": 265,
+      "timestamp": "2021-05-16 17:34:17.981971",
+      "base_url": "https://haliessentials.com",
+      "name": "HA Essentials",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0551/8835/7315/files/HA_300x300.png",
+      "title": "HA Essentials",
+      "description": "HA Essentials",
+      "language": "en",
+      "emails": [],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {},
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Visa"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c81e12adccc538e06c4"
+      },
+      "company_size_min": 18,
+      "company_size_max": 240,
+      "timestamp": "2021-05-16 17:34:13.179643",
+      "base_url": "https://brumate.com",
+      "name": "BrüMate",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/1114/2308/files/BruMate_Logo_only_copy.svg",
+      "title": "BrüMate | Insulated Can Coolers, Tumblers and Drinkware",
+      "description": "Say goodbye to warm alcohol forever. Shop our collection of can coolers and insulated tumblers designed to keep your drinks the perfect temperature while you’re on the go.",
+      "language": "en",
+      "emails": [
+        "sales@brumate.com"
+      ],
+      "locations": [
+        "33311 Fort Lauderdale"
+      ],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/mybrumate",
+        "instagram": "http://instagram.com/bru.mate",
+        "pinterest": "http://pinterest.com/brumate_",
+        "linkedin": "http://linkedin.com/company/br%C3%BCmate"
+      },
+      "technologies": [
+        "Shopify",
+        "Wistia",
+        "Afterpay",
+        "Apple Pay",
+        "Attentive",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Klaviyo",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Brand"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 19:04:05.410533",
+          "likes": 568948,
+          "store_name": "BrüMate",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "",
+          "categories": [
+            "Brand"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://www.BruMate.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {
+          "timestamp": "2021-05-16 19:04:38.495792",
+          "description": "Creating innovative products & crafting good times. Savor the perfect drinking experience with BrüMate's triple insulated stainless steel drinkware #DrinkBetter",
+          "followers": 699,
+          "logo": "https://i.pinimg.com/280x280_RS/1e/f5/d8/1ef5d8228b87d8d58208759c26524bf3.jpg",
+          "pins": 9291,
+          "boards": 16,
+          "is_verified": true
+        },
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c8162fa8f748c8e06c4"
+      },
+      "company_size_min": 9,
+      "company_size_max": 154,
+      "timestamp": "2021-05-16 17:34:11.826127",
+      "base_url": "https://escapeswimwear.com",
+      "name": "Escape Swimwear",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/1549/1957/files/Screen_Shot_2021-04-22_at_1.20.39_PM.png",
+      "title": "Escape Swimwear | Swimwear Made To Bring Confidence",
+      "description": "The latest Tweets from Escape Swimwear (@Escape_Swimwear). EVERY BODY IS A BIKINI BODY. 10% of every order donated to stop sexual violence. Canada",
+      "language": "en",
+      "emails": [
+        "pr@escapeswimwear.com",
+        "info@escapeswimwear.com",
+        "hello@escapeswimwear.com"
+      ],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/escapeswimwear",
+        "instagram": "http://instagram.com/escapeswimwear",
+        "youtube": "http://youtube.com/channel/UClh5s8_XPaLc3r9-3LMq62Q",
+        "twitter": "http://twitter.com/escape_swimwear"
+      },
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "Modernizr",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Clothing (Brand)",
+        "Swimwear Store"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 18:38:34.071589",
+          "likes": 50313,
+          "store_name": "Escape Swimwear",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "",
+          "categories": [
+            "Clothing (Brand)",
+            "Swimwear Store"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [
+            "You are a strong, independent woman. You know what you want and you know what suits your body. You want to dress in a way that doesn’t scream individuality and class, but whispers it seductively. At Escape Essentials, we hear you. We offer a wide variety of clothing and swimwear that embodies elegance and embraces curves. From head-turning bodycon bandage dresses to chic midi dresses; from comfortable swimsuits to bikinis that are almost too hot to swim in – you name it, we’ve got it."
+          ],
+          "links": [
+            "http://escapeswimwear.com/",
+            "https://instagram.com/escapeswimwear"
+          ]
+        },
+        "instagram": {},
+        "youtube": {
+          "timestamp": "2021-05-16 18:39:10.853951",
+          "views": 4719,
+          "subscribers": 71,
+          "videos": 20,
+          "name": "Escape Swimwear",
+          "description": "www.escapeswimwear.com",
+          "keywords": "Escape Swimwear"
+        },
+        "pinterest": {},
+        "twitter": {
+          "timestamp": "2021-05-16 18:36:19.555308",
+          "followers": 71,
+          "description": "The latest Tweets from Escape Swimwear (@Escape_Swimwear). EVERY BODY IS A BIKINI BODY. 10% of every order donated to stop sexual violence. Canada",
+          "tweets_count": 1352
+        },
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c81f1e7287a798e06c4"
+      },
+      "company_size_min": 14,
+      "company_size_max": 492,
+      "timestamp": "2021-05-16 17:34:11.755542",
+      "base_url": "https://klassywatches.com",
+      "name": "Klassy Watches",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/1998/5763/files/Artboard_3_2_213b1bea-2b74-4aab-86a5-1bfb64acc4a5_100x.png",
+      "title": "Klassy Watches",
+      "description": "Explore the fascinating world of watches at Klassy Watches through trendy brands including Zinvo Watches, Meister Watches or MSTR Watches, Corniche Watches, D1 Milano, Electricianz...",
+      "language": "en",
+      "emails": [],
+      "locations": [],
+      "phone_numbers": [
+        "+85515751077"
+      ],
+      "social_links": {
+        "facebook": "http://facebook.com/klassywatches",
+        "instagram": "http://instagram.com/klassywatches",
+        "youtube": "http://youtube.com/channel/UCKY7T1XiIQRRbvd7ckjfAjQ"
+      },
+      "technologies": [
+        "Shopify",
+        "Polyfill"
+      ],
+      "product_categories": [
+        "Jewelry & Watches Store"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 18:36:47.463791",
+          "likes": 375979,
+          "store_name": "Klassy Watches",
+          "emails": [],
+          "phone_numbers": [
+            "+85515751077"
+          ],
+          "location": "",
+          "categories": [
+            "Jewelry & Watches Store"
+          ],
+          "detailed_location": {
+            "@type": "PostalAddress",
+            "streetAddress": "No 45Eo, Street 240, Chaktumok, Doun Penh",
+            "addressLocality": "Phnom Penh, Cambodia",
+            "addressRegion": "Phnom Penh",
+            "postalCode": "12207"
+          },
+          "miscellaneous": [
+            "+855 15 751 077",
+            "1,423 people checked in here",
+            "Price Range · $$",
+            "No 45Eo, Street 240, Chaktumok, Doun Penh, Phnom Penh, Cambodia 12207",
+            "Get Directions"
+          ],
+          "links": [
+            "https://instagram.com/klassywatches",
+            "https://www.klassywatches.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {
+          "timestamp": "2021-05-16 18:37:15.921191",
+          "views": 11203,
+          "subscribers": 102,
+          "videos": 21,
+          "name": "Klassy Watches",
+          "description": "We are providing great video related to Authentic Watch",
+          "keywords": null
+        },
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c8115ea84ac3f8e06c4"
+      },
+      "company_size_min": 7,
+      "company_size_max": 254,
+      "timestamp": "2021-05-16 17:34:16.525099",
+      "base_url": "https://solissunglasses.com",
+      "name": "Solis Sunglasses",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0456/2911/2482/files/download_300x300.jpg",
+      "title": "Solis Sunglasses",
+      "description": "Solis Sunglasses",
+      "language": "en",
+      "emails": [
+        "info@solissunglasses.com",
+        "solissunglassesco@gmail.com"
+      ],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/solissunglassesco",
+        "instagram": "http://instagram.com/solissunglasses"
+      },
+      "technologies": [
+        "Shopify",
+        "Bootstrap",
+        "American Express",
+        "Apple Pay",
+        "Visa",
+        "Font Awesome",
+        "Loox",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Product/Service"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 20:20:11.743443",
+          "likes": 186,
+          "store_name": "Solis Sunglasses",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "",
+          "categories": [
+            "Product/Service"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://Solissunglasses.com/",
+            "https://instagram.com/solissunglasses"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c8195bf2eb73f8e06c4"
+      },
+      "company_size_min": 5,
+      "company_size_max": 337,
+      "timestamp": "2021-05-16 17:34:17.648653",
+      "base_url": "https://www.awsomu.com",
+      "name": "AwsomU",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0355/7841/3188/files/awsomu-fulllogo-transparent-white-tag-line-new-red_502x150.png",
+      "title": "Premium clothing & lifestyle shop with unbeatable price and deals",
+      "description": "The latest Tweets from awsomu (@awsomu1). https://t.co/LrOpt4Foak The online store for #fashion and #lifestyle for #kids, #women, #men with #freeshipping #clothing #jewelry #wathces #accssesories. #trending",
+      "language": "en",
+      "emails": [
+        "info@acrossinfinity.com",
+        "support@awsomu.com"
+      ],
+      "locations": [
+        "08820 Edison"
+      ],
+      "phone_numbers": [
+        "+18004847144",
+        "18004847144",
+        "1-800-484-7144"
+      ],
+      "social_links": {
+        "facebook": "http://facebook.com/awsomustore",
+        "instagram": "http://instagram.com/awsomu",
+        "twitter": "http://twitter.com/awsomu1"
+      },
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Venmo",
+        "Visa",
+        "Google Analytics",
+        "Loox"
+      ],
+      "product_categories": [
+        "Shopping & Retail"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 20:49:53.134370",
+          "likes": 2600,
+          "store_name": "AwsomU Store",
+          "emails": [],
+          "phone_numbers": [
+            "+18004847144"
+          ],
+          "location": "",
+          "categories": [
+            "Shopping & Retail"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [
+            "(800) 484-7144"
+          ],
+          "links": [
+            "http://www.awsomu.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {
+          "timestamp": "2021-05-16 20:49:53.321024",
+          "followers": 3,
+          "description": "The latest Tweets from awsomu (@awsomu1). https://t.co/LrOpt4Foak The online store for #fashion and #lifestyle for #kids, #women, #men with #freeshipping #clothing #jewelry #wathces #accssesories. #trending",
+          "tweets_count": 128
+        },
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c81b8a53c56318e06c4"
+      },
+      "company_size_min": 13,
+      "company_size_max": 82,
+      "timestamp": "2021-05-16 17:34:15.117889",
+      "base_url": "https://www.californiapoppysellers.com",
+      "name": "CaliforniaPoppySellers",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0511/2869/7015/files/Cali2_260x.png",
+      "title": "California Poppy Sellers",
+      "description": "At California Poppy Sellers, we have the best problem-solving products to help human beings address their daily needs. Do you need a store where health and beauty service is taken as a priority? Do you want quality made baby products or home buddies? Do you need relief materials for your pet? Check us out!",
+      "language": "en",
+      "emails": [
+        "info@californiapoppysellers.com"
+      ],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/shopify",
+        "instagram": "http://instagram.com/shopify",
+        "pinterest": "http://pinterest.com/shopify"
+      },
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Apple Pay",
+        "Venmo",
+        "Visa"
+      ],
+      "product_categories": [
+        "Software"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 19:46:34.841227",
+          "likes": 3807937,
+          "store_name": "Shopify",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "",
+          "categories": [
+            "Software"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [
+            "Shopify community spaces are intended to spark conversation. We want you to be able to connect with us, other merchants and entrepreneurs, and to share your thoughts and ideas about how to make commerce better for everyone! In these spaces, everyone should feel comfortable, safe and respected. We have a few simple community guidelines.Be considerate. Please keep your content and comments relevant to the general topic. The best kind of social media interaction is one that reads like a face-to-face conversation.Spamming, commercial advertising, personal promotion, link baiting and repeat posting  and trolling (posts which do not contribute to the conversation and/or aim to misdirect the conversation) examples of behaviour that is not acceptable.  If you don’t follow our rules your content may be removed at any time, without notice. Be kind: We will remove any content or comments that are illegal, offensive, or likely to expose any individual or group to hatred or contempt on the basis of race, national or ethnic origin, colour, religion, sex, sexual orientation, family status, marital status, gender, age, socioeconomic status; or mental or physical disability. Content falling into any of the following categories is also prohibited: personal attacks, insults or defamatory language, hate speech, threats, harassment, pornography, vulgarity, obscenity, or Illegal activities. Additionally, content that is found to be in poor taste or otherwise contrary to the purpose of the space may be removed.Be original: All content and comments posted that are not your own should include the source/link and give the appropriate credit and context for how it relates to the conversation/space. Shopify does not endorse the content of any externally linked content or comments, including posts from non-Shopify employees. Violations of copyright or intellectual property rights will not be tolerated.Be private: Be sure to keep your own and others’ personal information out of content or comments.Be awesome: Each of us comes to this space with a unique set of experiences, strengths and talents! Share your story, give your tips, make your suggestions and don’t be shy to ask for help!We value feedback and want to hear your opinions, both positive and negative, but make sure your participation in our Shopify community spaces falls within these guidelines. Any violation may result in removal from the space and/or flagging to the social network provider. We reserve the right to remove a post at any time for any reason we deem appropriate. We may update these rules from time to time. If you are a member of the Shopify Community and - at any time - feel that another community member is in violation of these house rules, please feel free to email us with your concerns at social@shopify.com."
+          ],
+          "links": [
+            "http://www.shopify.com/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {
+          "timestamp": "2021-05-16 19:46:21.171309",
+          "description": "Shopify stores and the inspirational stories of the entrepreneurs behind them. Curated beauty, fashion, home goods, and gifts from around the globe.",
+          "followers": 217465,
+          "logo": "https://i.pinimg.com/280x280_RS/fe/d0/8a/fed08a260ca78ba9e54c472b0471968b.jpg",
+          "pins": 2775,
+          "boards": 34,
+          "is_verified": false
+        },
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c81e1a8b188e78e06c4"
+      },
+      "company_size_min": 16,
+      "company_size_max": 236,
+      "timestamp": "2021-05-16 17:34:15.524139",
+      "base_url": "https://moozii.co",
+      "name": "Moozii",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0455/5721/9480/files/Altlogo3_130x.png",
+      "title": "Moozii | Beauty and Wellness | Feminine Care Natural Products",
+      "description": "Moozii is Feminine care, wellness, and beauty brand that provides high-quality products including CBD bath soak, rose water toner, facial cleanser, and more.",
+      "language": "en",
+      "emails": [
+        "hi@moozii.co"
+      ],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/shopmoozii",
+        "instagram": "http://instagram.com/moozii.co"
+      },
+      "technologies": [
+        "Shopify",
+        "American Express",
+        "Visa",
+        "Google Analytics",
+        "jQuery"
+      ],
+      "product_categories": [
+        "Health/Beauty"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 19:55:17.623215",
+          "likes": 359,
+          "store_name": "Moozii",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "Seattle, WA",
+          "categories": [
+            "Health/Beauty"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://www.moozii.co/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c80f3690e7db28e06c4"
+      },
+      "company_size_min": 8,
+      "company_size_max": 489,
+      "timestamp": "2021-05-16 17:34:10.565061",
+      "base_url": "https://chaosandbliss.co",
+      "name": "Chaos + Bliss",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0549/4967/5197/files/CBlogo-01_160x.png",
+      "title": "Chaos + Bliss",
+      "description": "Lifestyle Clothing Brand / With body flattering silhouettes and silky-soft fabrics that feel luxurious against the skin, Chaos and Bliss can go from distressed denim street style for day or dressed up with leather pants or a skirt for night.",
+      "language": "en",
+      "emails": [],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "facebook": "http://facebook.com/chaosandbliss.co",
+        "instagram": "http://instagram.com/chaosandbliss.co",
+        "pinterest": "http://pinterest.com/chaosandbliss"
+      },
+      "technologies": [
+        "Shopify",
+        "Google Analytics"
+      ],
+      "product_categories": [
+        "Clothing (Brand)"
+      ],
+      "social_media_info": {
+        "facebook": {
+          "timestamp": "2021-05-16 18:12:37.581325",
+          "likes": 27,
+          "store_name": "Chaos and Bliss",
+          "emails": [],
+          "phone_numbers": [],
+          "location": "Newport Beach, California",
+          "categories": [
+            "Clothing (Brand)"
+          ],
+          "detailed_location": {},
+          "miscellaneous": [],
+          "links": [
+            "http://www.chaosandbliss.co/"
+          ]
+        },
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {
+          "timestamp": "2021-05-16 18:14:35.681171",
+          "description": "For love and rebellion ⚡️✨ Chaos+Bliss is a lifestyle brand  / Instagram @chaosandbliss.co",
+          "followers": 14,
+          "logo": "https://i.pinimg.com/280x280_RS/d1/8e/13/d18e132a3bc58844c283e829796eb083.jpg",
+          "pins": 889,
+          "boards": 17,
+          "is_verified": false
+        },
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    },
+    {
+      "_id": {
+        "$oid": "60a94c808cddd86b038e06c4"
+      },
+      "company_size_min": 10,
+      "company_size_max": 100,
+      "timestamp": "2021-05-16 17:34:10.219744",
+      "base_url": "https://royalarmadio.com",
+      "name": "Royal Armadio",
+      "platform": "shopify",
+      "logo": "https://cdn.shopify.com/s/files/1/0406/1931/1257/files/Screenshot_136_500x.png",
+      "title": "Royal Armadio",
+      "description": "At The Comfort Of Your Home. For a Low Price You'll Find Jackets, Coats, Dresses, Blouses, Shirts, Suits, Jeans, Casuals, Bodysuits, Jumpsuits, Leggings, Intimates, Swimwear, Shoes Tracksuits, Shorts, Sportswear, Sweatpants Tops & Tees With Free Shipping! With in The United States.",
+      "language": "en",
+      "emails": [
+        "info@royalarmadio.com"
+      ],
+      "locations": [],
+      "phone_numbers": [],
+      "social_links": {
+        "instagram": "http://instagram.com/royalarmadio"
+      },
+      "technologies": [
+        "Shopify",
+        "Loox"
+      ],
+      "product_categories": [],
+      "social_media_info": {
+        "facebook": {},
+        "instagram": {},
+        "youtube": {},
+        "pinterest": {},
+        "twitter": {},
+        "tiktok": {},
+        "linkedin": {}
+      }
+    }
+  ]
 }
