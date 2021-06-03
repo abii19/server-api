@@ -1,139 +1,301 @@
 {
-  "lists": [
+  "data": [
     {
-      "id": "a52CUvk",
-      "list_name": "ssssadcdca",
-      "created_at": "December",
-      "no_of_stores": "228"
-    },
-    {
-      "id": "ysZzk_N",
-      "list_name": "new list name sjs",
-      "created_at": "December",
-      "no_of_stores": "969"
-    },
-    {
-      "id": "_dBts-C",
-      "list_name": "ssascadscas",
-      "created_at": "December",
-      "no_of_stores": "228"
-    },
-    {
-      "id": "6nxlTwR",
-      "list_name": "test list",
-      "created_at": "December",
-      "no_of_stores": "228"
-    },
-    {
-      "id": "_dBts-C",
-      "list_name": "ssascadscas",
-      "created_at": "December",
-      "no_of_stores": "228"
-    },
-    {
-      "id": "-TuV2uT",
-      "list_name": "list 1",
-      "created_at": "December",
-      "no_of_stores": "0"
-    }
-  ],
-  "stores": [
-    {
-      "_id": {
-        "$oid": "60a94c8017004859308e06c4"
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000561"
       },
-      "company_size_min": 6,
-      "company_size_max": 136,
-      "timestamp": "2021-05-16 17:34:09.824006",
-      "base_url": "https://www.sheswaisted.com",
-      "name": "She's Waisted",
-      "platform": "shopify",
-      "logo": "https://cdn.shopify.com/s/files/1/0035/9759/8787/files/Pink_133a2634-1389-4cf4-9cc8-67096e5c6cb5_360x.png",
-      "title": "She's Waisted",
-      "description": "Transform Your Curves with our Premium Waist Trainers and Fitness belts.",
-      "language": "en",
-      "emails": [
-        "support@sheswaisted.com"
-      ],
-      "locations": [
-        "33157 Cutler Bay"
-      ],
-      "phone_numbers": [],
-      "social_links": {
-        "facebook": "http://facebook.com/sheswaisted",
-        "instagram": "http://instagram.com/sheswaisted"
-      },
-      "technologies": [
-        "Shopify",
-        "Apple Pay",
-        "Google Optimize",
-        "Loox",
-        "jQuery"
-      ],
-      "product_categories": [
-        "Clothing (Brand)"
-      ],
-      "social_media_info": {
-        "facebook": {
-          "timestamp": "2021-05-16 18:05:08.043045",
-          "likes": 24571,
-          "store_name": "She’s Waisted",
-          "emails": [],
-          "phone_numbers": [],
-          "location": "",
-          "categories": [
-            "Clothing (Brand)"
-          ],
-          "detailed_location": {},
-          "miscellaneous": [],
-          "links": [
-            "http://www.sheswaisted.com/"
-          ]
-        },
-        "instagram": {},
-        "youtube": {},
-        "pinterest": {},
-        "twitter": {},
-        "tiktok": {},
-        "linkedin": {}
-      }
+      "vendor_name": "Yance Hugh",
+      "address": "4 Crescent Oaks Junction",
+      "contact": "189-796-8591",
+      "optional_contact": null
     },
     {
-      "_id": {
-        "$oid": "60a94c808cddd86b038e06c4"
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000562"
       },
-      "company_size_min": 10,
-      "company_size_max": 100,
-      "timestamp": "2021-05-16 17:34:10.219744",
-      "base_url": "https://royalarmadio.com",
-      "name": "Royal Armadio",
-      "platform": "shopify",
-      "logo": "https://cdn.shopify.com/s/files/1/0406/1931/1257/files/Screenshot_136_500x.png",
-      "title": "Royal Armadio",
-      "description": "At The Comfort Of Your Home. For a Low Price You'll Find Jackets, Coats, Dresses, Blouses, Shirts, Suits, Jeans, Casuals, Bodysuits, Jumpsuits, Leggings, Intimates, Swimwear, Shoes Tracksuits, Shorts, Sportswear, Sweatpants Tops & Tees With Free Shipping! With in The United States.",
-      "language": "en",
-      "emails": [
-        "info@royalarmadio.com"
-      ],
-      "locations": [],
-      "phone_numbers": [],
-      "social_links": {
-        "instagram": "http://instagram.com/royalarmadio"
+      "vendor_name": "Issiah Ramelet",
+      "address": "583 Golf Lane",
+      "contact": "438-826-3799",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000563"
       },
-      "technologies": [
-        "Shopify",
-        "Loox"
-      ],
-      "product_categories": [],
-      "social_media_info": {
-        "facebook": {},
-        "instagram": {},
-        "youtube": {},
-        "pinterest": {},
-        "twitter": {},
-        "tiktok": {},
-        "linkedin": {}
-      }
+      "vendor_name": "Keane Klimashevich",
+      "address": "2649 Oneill Way",
+      "contact": "475-142-1083",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000564"
+      },
+      "vendor_name": "Orelia Aberdein",
+      "address": "697 Monterey Road",
+      "contact": "457-724-9395",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000565"
+      },
+      "vendor_name": "Merry Kemston",
+      "address": "6819 Starling Parkway",
+      "contact": "656-806-9121",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000566"
+      },
+      "vendor_name": "Zena Kyles",
+      "address": "8 Heath Crossing",
+      "contact": "971-508-2497",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000567"
+      },
+      "vendor_name": "Parnell Delacoste",
+      "address": "36 Atwood Terrace",
+      "contact": "592-835-6315",
+      "optional_contact": "899-452-1759"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000568"
+      },
+      "vendor_name": "Yovonnda Garlette",
+      "address": "727 Mosinee Lane",
+      "contact": "347-800-8122",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000569"
+      },
+      "vendor_name": "Moira Growy",
+      "address": "86281 Melvin Place",
+      "contact": "562-154-5271",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056a"
+      },
+      "vendor_name": "Stanly Egglestone",
+      "address": "8744 International Way",
+      "contact": "290-495-0928",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056b"
+      },
+      "vendor_name": "Hogan Delamaine",
+      "address": "34 Kipling Parkway",
+      "contact": "538-480-5136",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056c"
+      },
+      "vendor_name": "Tonya Beyn",
+      "address": "199 Continental Lane",
+      "contact": "853-938-3400",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056d"
+      },
+      "vendor_name": "Nickey Vasler",
+      "address": "83515 Crescent Oaks Crossing",
+      "contact": "834-734-8970",
+      "optional_contact": "445-994-7842"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056e"
+      },
+      "vendor_name": "Brett Campana",
+      "address": "3361 Towne Park",
+      "contact": "634-273-9956",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00056f"
+      },
+      "vendor_name": "Genovera Bautiste",
+      "address": "2 Maple Wood Lane",
+      "contact": "994-887-6364",
+      "optional_contact": "788-155-1410"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000570"
+      },
+      "vendor_name": "Lorne Drinnan",
+      "address": "49 Elka Place",
+      "contact": "524-267-1822",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000571"
+      },
+      "vendor_name": "Francisco Vint",
+      "address": "29 Raven Junction",
+      "contact": "700-337-8177",
+      "optional_contact": "760-496-5821"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000572"
+      },
+      "vendor_name": "Flore Frost",
+      "address": "57868 Sugar Terrace",
+      "contact": "921-411-9906",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000573"
+      },
+      "vendor_name": "Natale Blaver",
+      "address": "2858 Clemons Trail",
+      "contact": "549-240-9168",
+      "optional_contact": "667-900-0873"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000574"
+      },
+      "vendor_name": "Gareth Fuge",
+      "address": "2151 Surrey Avenue",
+      "contact": "196-435-1348",
+      "optional_contact": "491-628-5525"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000575"
+      },
+      "vendor_name": "Vance Robathon",
+      "address": "7130 8th Street",
+      "contact": "465-895-6661",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000576"
+      },
+      "vendor_name": "Granville Leversha",
+      "address": "03631 Eastlawn Terrace",
+      "contact": "787-198-8525",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000577"
+      },
+      "vendor_name": "Valery Adolfson",
+      "address": "43612 5th Hill",
+      "contact": "959-750-3447",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000578"
+      },
+      "vendor_name": "Valeria Feige",
+      "address": "6796 Anderson Way",
+      "contact": "795-897-7197",
+      "optional_contact": "998-251-5139"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000579"
+      },
+      "vendor_name": "Cash Covert",
+      "address": "73847 Holy Cross Place",
+      "contact": "865-129-3017",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057a"
+      },
+      "vendor_name": "Corine Gini",
+      "address": "713 Stuart Plaza",
+      "contact": "617-181-4327",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057b"
+      },
+      "vendor_name": "Carleen Plumstead",
+      "address": "61 Fallview Point",
+      "contact": "377-407-7714",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057c"
+      },
+      "vendor_name": "Padraig Hamley",
+      "address": "1794 Dunning Crossing",
+      "contact": "302-562-7948",
+      "optional_contact": "794-708-2269"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057d"
+      },
+      "vendor_name": "Lavinie McSperron",
+      "address": "92 Jana Alley",
+      "contact": "714-590-4246",
+      "optional_contact": "186-169-8543"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057e"
+      },
+      "vendor_name": "Lauree Ivanyushin",
+      "address": "4347 Westport Lane",
+      "contact": "744-284-1218",
+      "optional_contact": "478-793-4717"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b00057f"
+      },
+      "vendor_name": "Geri Cowderay",
+      "address": "4443 Miller Center",
+      "contact": "924-946-1110",
+      "optional_contact": null
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000580"
+      },
+      "vendor_name": "Arney Rule",
+      "address": "5818 Kim Lane",
+      "contact": "269-691-6317",
+      "optional_contact": "308-219-0684"
+    },
+    {
+      "id": {
+        "$oid": "60b8b867fc13ae0c3b000581"
+      },
+      "vendor_name": "Donnell Stiell",
+      "address": "5 Thierer Way",
+      "contact": "181-512-4305",
+      "optional_contact": null
     }
   ]
 }
