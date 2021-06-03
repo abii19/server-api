@@ -1,5 +1,5 @@
 {
-  "data": [
+  "vendor": [
     {
       "id": {
         "$oid": "60b8b867fc13ae0c3b000561"
@@ -205,96 +205,6 @@
       "vendor_name": "Valery Adolfson",
       "address": "43612 5th Hill",
       "contact": "959-750-3447",
-      "optional_contact": null
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b000578"
-      },
-      "vendor_name": "Valeria Feige",
-      "address": "6796 Anderson Way",
-      "contact": "795-897-7197",
-      "optional_contact": "998-251-5139"
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b000579"
-      },
-      "vendor_name": "Cash Covert",
-      "address": "73847 Holy Cross Place",
-      "contact": "865-129-3017",
-      "optional_contact": null
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057a"
-      },
-      "vendor_name": "Corine Gini",
-      "address": "713 Stuart Plaza",
-      "contact": "617-181-4327",
-      "optional_contact": null
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057b"
-      },
-      "vendor_name": "Carleen Plumstead",
-      "address": "61 Fallview Point",
-      "contact": "377-407-7714",
-      "optional_contact": null
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057c"
-      },
-      "vendor_name": "Padraig Hamley",
-      "address": "1794 Dunning Crossing",
-      "contact": "302-562-7948",
-      "optional_contact": "794-708-2269"
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057d"
-      },
-      "vendor_name": "Lavinie McSperron",
-      "address": "92 Jana Alley",
-      "contact": "714-590-4246",
-      "optional_contact": "186-169-8543"
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057e"
-      },
-      "vendor_name": "Lauree Ivanyushin",
-      "address": "4347 Westport Lane",
-      "contact": "744-284-1218",
-      "optional_contact": "478-793-4717"
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b00057f"
-      },
-      "vendor_name": "Geri Cowderay",
-      "address": "4443 Miller Center",
-      "contact": "924-946-1110",
-      "optional_contact": null
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b000580"
-      },
-      "vendor_name": "Arney Rule",
-      "address": "5818 Kim Lane",
-      "contact": "269-691-6317",
-      "optional_contact": "308-219-0684"
-    },
-    {
-      "id": {
-        "$oid": "60b8b867fc13ae0c3b000581"
-      },
-      "vendor_name": "Donnell Stiell",
-      "address": "5 Thierer Way",
-      "contact": "181-512-4305",
       "optional_contact": null
     }
   ]
